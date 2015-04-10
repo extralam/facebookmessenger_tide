@@ -1,0 +1,27 @@
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.kirinapp.fbmessenger</id>
+<name>FB Messenger For Desktop</name>
+<version>0.1.0</version>
+<publisher>Kirinapp</publisher>
+<url>http//kirinapp.com</url>
+<icon>default_app_logo.png</icon>
+<copyright>2015 by Kirinapp</copyright>
+
+<window>
+<id>initial</id>
+<title>Facebook Messenger</title>
+<url>https://messenger.com/login</url>
+<width>1024</width>
+<max-width>1280</max-width>
+<min-width>320</min-width>
+<height>640</height>
+<max-height>1280</max-height>
+<min-height>0</min-height>
+<fullscreen>false</fullscreen>
+<resizable>false</resizable>
+<chrome scrollbars="true">true</chrome>
+<maximizable>true</maximizable>
+<minimizable>true</minimizable>
+<closeable>true</closeable>
+</window>
+</ti:app>
